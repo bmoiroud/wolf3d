@@ -6,13 +6,13 @@ This project is inspired by the famous game Wolfenstein 3d, which was one of the
 
 ## Installation
 
-```
+``` bash
 $> git clone https://github.com/bmoiroud/wolf3d.git && cd wolf3d && make
 ```
 
 ## Usage
 
-```
+``` bash
 $> ./wolf3d <map>
 ```
 
