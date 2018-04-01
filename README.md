@@ -4,6 +4,8 @@
 
 This project is inspired by the famous game Wolfenstein 3d, which was one of the first FPS.
 
+<img src="./img/img.png"/>
+
 ## Installation
 
 ``` bash
